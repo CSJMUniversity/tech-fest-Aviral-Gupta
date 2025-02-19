@@ -1,0 +1,58 @@
+*{
+    margin: 10px;
+    padding: 10px;
+    background-color: skyblue;
+}
+.header{
+    align-items: center;
+    justify-content: center;
+}
+.navigation-bar{
+    display: flex;
+    width: auto;
+    margin: auto;
+    padding: auto;
+    background-color: hwb(262 31% 16%);
+    color:#fff ;
+   
+}
+.ul{
+    display: flex;
+    align-items: center;
+    text-decoration: underline;
+}
+
+.li{
+align-items: center;
+display: flex;
+
+}
+.image-container{
+    width:500px; 
+    height:200px; 
+    background-image: url(Assets/Mahakumbh-Mela-2025.webp);
+
+}
+.p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    bottom: 50%;
+    right: 0%;
+}
+.section-3{
+    background-color: maroon;
+    color: yellow;
+    align-items: center;
+    position: absolute;
+    font-size: medium;
+    font-family: monospace;
+}
+.footer{
+    position: absolute;
+    align-items: center;
+    background-color: #9cb0b0;
+    color: #8e3c95;
+}
+
